@@ -8,6 +8,10 @@ import java.util.Map;
 
 public class Test {
     public void pupAge(){
+
+        String name = "tao";
+
+
         BigDecimal age = new BigDecimal(21);
         BigDecimal age2 = new BigDecimal(10);
 
