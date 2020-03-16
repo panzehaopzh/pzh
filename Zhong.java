@@ -6,5 +6,6 @@ public class Zhong {
         System.out.println("祖安大舞台，有妈你就来");
         System.out.println("你的房间怎么这么乱呀 你爸妈呢？ 你爸妈去哪了？ 难道说你爸妈.......");
         System.out.println("***");
+        System.out.println("123");
     }
 }
