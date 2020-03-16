@@ -9,7 +9,7 @@ public class Test {
     public void pupAge(){
 
         String name = "tao";
-
+        String liangzai = "大钟";
 
         BigDecimal age = new BigDecimal(21);
         BigDecimal age2 = new BigDecimal(10);
