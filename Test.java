@@ -10,6 +10,7 @@ public class Test {
 
         String name = "tao";
         String liangzai = "大钟";
+        String tao ="塞班 在哪？？？？";
 
         BigDecimal age = new BigDecimal(21);
         BigDecimal age2 = new BigDecimal(10);
